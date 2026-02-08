@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prakash 👋</h1>
-<h3 align="center">AI & ML Enthusiast | Interest in Software Development | Aspiring ML Engineer</h3>
+<h3 align="center">AI & ML Student | Interest in Software Development | Aspiring ML Engineer</h3>
 
 <p align="center">
 Building products that solve real-world problems using AI and modern web technologies.

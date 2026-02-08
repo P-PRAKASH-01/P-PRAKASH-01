@@ -8,10 +8,9 @@ Building products that solve real-world problems using AI and modern web technol
 ---
 
 ### 🚀 About Me
-- Computer Science undergraduate focused on **AI & Machine Learning**
+- AIML Student focused on **Software Development**
 - Passionate about **building scalable products** and **user-first systems**
 - Experience in **web apps, APIs, and data-driven solutions**
-- Long-term goal: **launch and lead impactful tech startups**
 
 ---
 

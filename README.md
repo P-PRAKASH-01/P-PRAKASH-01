@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prakash 👋</h1>
-<h3 align="center">AI & ML Student | Interest in Software Development | Aspiring ML Engineer</h3>
+<h3 align="center">AIML Student | Front-End Developer | Future Full Stack Engineer</h3>
 
 <p align="center">
 Building products that solve real-world problems using AI and modern web technologies.
@@ -8,9 +8,11 @@ Building products that solve real-world problems using AI and modern web technol
 ---
 
 ### 🚀 About Me
-- AIML Student focused on **Software Development**
-- Passionate about **building scalable products** and **user-first systems**
-- Experience in **web apps, APIs, and data-driven solutions**
+- 🎯 CSE (AIML) Student at **KPRIET**
+- 💻 Front-End Developer with a passion for building engaging web experiences
+- 🚀 Aspiring **Full Stack Developer** currently expanding my skill set
+- 🛠️ Passionate about **building scalable products** and **user-first systems**
+- 📈 Experience in **web apps, APIs, and data-driven solutions**
 
 ---
 
@@ -27,7 +29,23 @@ Building products that solve real-world problems using AI and modern web technol
 
 ---
 
-### 📫 Connect
+### 🏆 Certifications & Achievements
+- **NPTEL** Certified
+- **Spoken Tutorial, IIT Bombay** - Java, RDBMS, C++ Advanced
+- 🏅 **Space Apps Challenge 2025** - 48hrs Hackathon Participant @ SNS College
+- 🏅 **BIT College** - 6hrs Hackathon Participant
+
+---
+
+### 🎯 Currently
+- 📚 Learning Full Stack Development
+- 🔍 Exploring career opportunities in Software Development
+- 💡 Open to collaborations and exciting projects
+
+---
+
+### 📫 Let's Connect
+- Feel free to reach out for collaborations or just a friendly chat about tech!
 - Email: **prakash.p.dev12@gmail.com**  
 - Portfolio: **prakash--portfolio.vercel.app/**
 - LinkedIn: **linkedin.com/in/prakash--p7/**
